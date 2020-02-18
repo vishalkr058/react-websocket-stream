@@ -11,6 +11,15 @@ ffmpeg convert our 4 ip RTSP streams into a MpegVideo Socket Stream an push it t
 our Webrelay Service.
 Our React App gets the Websocket Stream hosted on a specfic port.
 
+### Config your RTSP Streams
+Open `start-ffmpeg.bat` location is under jsmpeg
+
+switch the inputs
+
+from 
+`rtsp://[User]:[Password]@[IP Adress]/h264Preview_01_sub`
+to your rstp Stream
+
 ### Start ffmpeg receiver Service
 
 + `cd jsmpeg`

@@ -1,10 +1,10 @@
 # react-websocket-stream
 
 ## Description
-This Project was built to display 4 iP Camera Stream in one Video on a WebApp
+This Project was built to display 4 iP Camera Stream in one Video on a React App
 without any need of external plugins like flash or skylight.
 
-You can access the video Stream via the WebApp and you are able to record your 
+You can access the video Stream via the React App and you are able to record your 
 Video Stream
 ## Technique
 ffmpeg convert our 4 ip RTSP streams into a MpegVideo Socket Stream an push it to

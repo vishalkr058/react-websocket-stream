@@ -12,7 +12,7 @@ our Webrelay Service.
 Our React App gets the Websocket Stream hosted on a specfic port.
 
 ### Config your RTSP Streams
-Open `start-ffmpeg.bat` location is under jsmpeg
+Edit `start-ffmpeg.bat` in jsmpeg folder
 
 switch the inputs
 
